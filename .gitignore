@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+index.markdown
+about.markdown
+_config.yml
+Gemfile.lock
+Gemfile
+404.html
