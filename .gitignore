@@ -5,7 +5,19 @@ _site
 vendor
 index.markdown
 about.markdown
-_config.yml
 Gemfile.lock
-Gemfile
 404.html
+
+# Jekyll cache
+.jekyll-cache/
+
+# Built site files
+_site/
+
+# Gemfile lock (local environment specific)
+Gemfile.lock
+
+# Optional: Ignore these files if they are generated or not needed
+404.html
+about.markdown
+index.markdown
